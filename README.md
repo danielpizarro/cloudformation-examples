@@ -1,10 +1,6 @@
 # cloudformation-examples
 
-currently only one example:
-
-AWS CloudFormation Sample Template EC2InstanceWithSecurityGroupSample:
-
-Creates an Amazon EC2 instance running the Amazon Linux AMI.
+Currently only one example:
 
 This example creates an EC2 security group for the instance to give you SSH access and access via TCP 8080.
 
